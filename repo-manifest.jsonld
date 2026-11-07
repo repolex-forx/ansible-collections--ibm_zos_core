@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/ibm_zos_core/commit/46ec35e41b3bb89d4097dc7ad097ec85ad314ae2",
       "git:hexsha": "46ec35e41b3bb89d4097dc7ad097ec85ad314ae2",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/ansible-collections/ibm_zos_core/commit/235f1df1be099e9610352c65293cc57feb7607bb",

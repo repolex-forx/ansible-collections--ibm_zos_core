@@ -1,0 +1,7 @@
+[2026-11-07T13:26:28Z] === AST ITERATION 1 START | repo=ansible-collections/ibm_zos_core sha=46ec35e4 ===
+[2026-11-07T13:26:28Z] [iter=1] PHASE START: ast repo=ansible-collections/ibm_zos_core sha=46ec35e4
+[2026-11-07T13:26:28Z] [iter=1] Building AST aggregate chunks
+[2026-11-07T13:31:13Z] [iter=1] AST chunks built count=1 triples=3992153
+[2026-11-07T13:31:13Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/46ec35e41b3bb89d4097dc7ad097ec85ad314ae2/.complete
+[2026-11-07T13:31:13Z] [iter=1] PHASE END: ast elapsed_s=285 elapsed_min=4.8
+[2026-11-07T13:31:13Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
